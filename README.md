@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Shivam Vaidhya</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
-- 🔭 I’m currently working on **Quiz App, E-Commerce Website**
+- 🔭 I’m currently working on **Digital Assessment, E-Commerce Website**
 
-- 🌱 I’m currently learning **MERN Stack, Android**
+- 🌱 I’m currently learning **MERN Stack,React Native, Java,Android**
 
-- 💬 Ask me about **Java, React, SQL, Nodejs, Bootstrap**
+- 💬 Ask me about **Java, React, SQL, Nodejs, Express, React Native,MongoDB,Postman Bootstrap**
 
 - 📫 How to reach me **Shivamvaidhya15@gmail.com**
 
